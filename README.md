@@ -28,6 +28,13 @@ The agent was tested through multiple real-world scenarios such as:
 - Task prioritization
 - Deadline management
 
+## Project Demonstration
+Screenshots demonstrating the AI agent workflows and outputs are available
+in the `screenshots` folder.
+
+All prompts used for this project are documented in the `prompts` folder for
+reference and reproducibility.
+
 ## Future Scope
 In the future, this project can be extended by implementing the same agent
 using Microsoft Copilot Studio for full deployment and automation.
