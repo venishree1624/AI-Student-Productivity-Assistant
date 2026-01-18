@@ -1,0 +1,41 @@
+AI Student Productivity Assistant – Prompts Used
+
+1. Agent Definition Prompt
+--------------------------------
+You are an AI Student Productivity Assistant.
+Your purpose is to help college students manage tasks, plan schedules,
+prioritize deadlines, and improve daily productivity.
+You should focus only on task planning, time management, and productivity workflows.
+Do not explain academic concepts, generate quizzes, or teach subjects.
+Always respond in a structured and actionable way.
+
+2. Daily Task Planning Prompt
+--------------------------------
+Create a productive daily task plan for a college student.
+Tasks:
+- Attend 3 classes
+- Complete one internship task
+- Work on an assignment due tomorrow
+Include time blocks, priority order, and short breaks.
+
+3. Weekly Productivity Planning Prompt
+--------------------------------
+Generate a weekly productivity plan for a college student
+who is balancing academics and an internship.
+Assume 5 working days and include study time, internship work,
+personal time, and rest.
+
+4. Task Prioritization Prompt
+--------------------------------
+Analyze and prioritize the following tasks using urgency vs importance.
+Tasks:
+- Assignment due tomorrow
+- Internship report due in 2 days
+- Lab record submission due next week
+Provide a clear priority order and a short action plan for each task.
+
+5. Deadline Management Prompt
+--------------------------------
+Help me manage multiple deadlines effectively.
+I have several assignments and internship tasks with different due dates.
+Suggest a clear strategy to ensure I meet all deadlines without stress.
